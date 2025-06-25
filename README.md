@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/sportSync-logo.png?raw=true" alt="MSportSync" width="100%" height="80" />
+      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/sportSync-logo.png?raw=true" alt="MSportSync" width="100%" />
       <h4>SportSync | An Athletic Event Booking Platform</h4>
       <a href="https://sport-sync-ass-11.web.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -82,7 +82,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/task%20market%20logo.png?raw=true" alt="Task Market" width="100%" height="80" />
+      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/task%20market%20logo.png?raw=true" alt="Task Market" width="100%"  />
       <h4>Task Market | Earn Money with you skill</h4>
       <a href="https://task-market.surge.sh/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -95,7 +95,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/auction%20Gallery%20Logo.png?raw=true" alt="Auction Gallery" width="100%" height="80" />
+      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/auction%20Gallery%20Logo.png?raw=true" alt="Auction Gallery" width="100%"  />
       <h4>Auction Gallery | Bid Unique Items</h4>
       <a href="https://amol-07-auction-gallery.surge.sh/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -105,7 +105,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/nature-logo-header.png?raw=true" alt="Nature's Platter" width="100%" height="80" />
+      <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/nature-logo-header.png?raw=true" alt="Nature's Platter" width="100%"  />
       <h4>Nature's Platter | Freshness You Can Count On</h4>
       <a href="https://iamamolsarker.github.io/assignment_03_nature_platter/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
