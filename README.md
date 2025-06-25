@@ -121,10 +121,11 @@
 
 <p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/robot.gif?raw=true" width="500"></p>
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; Collaborate With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; Contact With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
 
 <a href="https://www.linkedin.com/in/iamamolsarker/" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/linkedin.gif?raw=true" width="60" alt="LinkedIn" />
 </a>
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amolsarker.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=vercel)](https://your-portfolio-link.com)
+<a href="https://www.twitter.com/iamamolsarker/" target="_blank">
+  <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/twitter.gif?raw=true" width="60" alt="Twitter" />
+</a>
