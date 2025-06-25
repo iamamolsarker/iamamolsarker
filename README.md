@@ -7,21 +7,30 @@
 
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; About Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
 
-*<p align="justify">
-  I’ve always been passionate about technology, but without proper guidance, I pursued business studies and completed my graduation in accounting. While preparing for a career in banking, I realized it wasn’t the path for me.
+<p align="justify">
+  <i>
+    I’ve always been passionate about technology, but without proper guidance, I pursued business studies and completed my graduation in accounting. While preparing for a career in banking, I realized it wasn’t the path for me.
+  </i>
 </p>
 
 <p align="justify">
-  In 2017, I took a leap and joined a short WordPress development course — a decision that changed everything. It reignited my love for tech and set me on the path of becoming a self-taught web developer.
+  <i>
+    In 2017, I took a leap and joined a short WordPress development course — a decision that changed everything. It reignited my love for tech and set me on the path of becoming a self-taught web developer.
+  </i>
 </p>
 
 <p align="justify">
-  Today, I specialize in building scalable full-stack applications using the MERN stack, Firebase, Tailwind CSS, and JWT. I'm driven by a passion for learning, problem-solving, and turning ideas into real-world solutions.
+  <i>
+    Today, I specialize in building scalable full-stack applications using the MERN stack, Firebase, Tailwind CSS, and JWT. I'm driven by a passion for learning, problem-solving, and turning ideas into real-world solutions.
+  </i>
 </p>
 
 <p align="justify">
-  My journey is proof that it’s never too late to follow your passion. No matter your background, with focus and persistence, you can create the career you dream of.
-</p>*
+  <i>
+    My journey is proof that it’s never too late to follow your passion. No matter your background, with focus and persistence, you can create the career you dream of.
+  </i>
+</p>
+
 
 ---
 
