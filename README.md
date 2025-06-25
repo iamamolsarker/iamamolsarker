@@ -116,11 +116,12 @@
     </td>
   </tr>
 </table>
-
-
 ---
 
-### 🤝 Connect with Me
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500"></p>
+
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; Collaborate With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/amolsarker)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amolsarker.dev@gmail.com)
