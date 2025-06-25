@@ -126,6 +126,9 @@
 <a href="https://www.linkedin.com/in/iamamolsarker/" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/linkedin.gif?raw=true" width="60" alt="LinkedIn" />
 </a>
-<a href="https://www.twitter.com/iamamolsarker/" target="_blank">
+<a href="https://x.com/iamamolsarker/" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/twitter.gif?raw=true" width="60" alt="Twitter" />
+</a>
+<a href="https://wa.me/8801683586860" target="_blank">
+  <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/whatsapp.gif?raw=true" alt="Chat on WhatsApp" />
 </a>
