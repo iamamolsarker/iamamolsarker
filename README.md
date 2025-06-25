@@ -80,17 +80,16 @@
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x140.png?text=Project+3" alt="Blog CMS" width="100%" />
+      <h4>Blog CMS (MongoDB + Express)</h4>
+      <a href="https://github.com/amolsarker/blog-cms" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
 
-
----
-
-### 📊 GitHub Stats
-
-![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsarker&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsarker&layout=compact&theme=radical)
 
 ---
 
