@@ -61,30 +61,48 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
-      <h4>MERN Authentication App</h4>
-      <a href="https://github.com/amolsarker/mern-auth-app" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <h4>SportSync | An Athletic Event Booking Platform</h4>
+      <a href="https://sport-sync-ass-11.web.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a><br>
+      <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-iamamolsarker" target="_blank">
+        <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-iamamolsarker" target="_blank">
+        <img src="https://img.shields.io/badge/Server_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+2" alt="Task Tracker" width="100%" />
-      <h4>Task Tracker (React + Firebase)</h4>
-      <a href="https://github.com/amolsarker/task-tracker" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <h4>Task Marker | Earn Money with you skill</h4>
+      <a href="https://task-market.surge.sh/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a><br>
+      <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-iamamolsarker" target="_blank">
+        <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-server-side-iamamolsarker" target="_blank">
+        <img src="https://img.shields.io/badge/Server_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+3" alt="Blog CMS" width="100%" />
-      <h4>Blog CMS (MongoDB + Express)</h4>
-      <a href="https://github.com/amolsarker/blog-cms" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <h4>Auction Gallery | Bid Unique Items</h4>
+      <a href="https://amol-07-auction-gallery.surge.sh/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a><br>
+      <a href="https://github.com/programming-hero-web-course1/b11a7-auction-gallery-iamamolsarker" target="_blank">
+        <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+3" alt="Blog CMS" width="100%" />
-      <h4>Blog CMS (MongoDB + Express)</h4>
-      <a href="https://github.com/amolsarker/blog-cms" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <h4>Nature's Platter | Freshness You Can Count On</h4>
+      <a href="https://iamamolsarker.github.io/assignment_03_nature_platter/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a><br>
+      <a href="https://github.com/iamamolsarker/assignment_03_nature_platter" target="_blank">
+        <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
