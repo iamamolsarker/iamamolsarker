@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <img src="https://raw.githubusercontent.com/Programming-Hero-Web-Course4/b11a11-client-side-iamamolsarker/refs/heads/main/src/assets/basketball.avif?token=GHSAT0AAAAAADCO2OW3RB2YXYOB2RZTIH222C3YK5A" alt="MSportSync" width="100%" />
       <h4>SportSync | An Athletic Event Booking Platform</h4>
       <a href="https://sport-sync-ass-11.web.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -73,8 +73,8 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
-      <h4>Task Marker | Earn Money with you skill</h4>
+      <img src="https://raw.githubusercontent.com/Programming-Hero-Web-Course4/b11a10-client-side-iamamolsarker/refs/heads/main/src/assets/task-market.jpg?token=GHSAT0AAAAAADCO2OW3UEIJINK2VHGK7JBE2C3YJIA" alt="Task Market" width="100%" />
+      <h4>Task Market | Earn Money with you skill</h4>
       <a href="https://task-market.surge.sh/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
       </a><br>
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <img src="https://raw.githubusercontent.com/programming-hero-web-course1/b11a7-auction-gallery-iamamolsarker/refs/heads/main/public/images/AuctionGallery_logo.png?token=GHSAT0AAAAAADCO2OW2W5E2BPZ2IS5SIADG2C3YHNA" alt="Auction Gallery" width="100%" />
       <h4>Auction Gallery | Bid Unique Items</h4>
       <a href="https://amol-07-auction-gallery.surge.sh/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -96,7 +96,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <img src="https://raw.githubusercontent.com/iamamolsarker/assignment_03_nature_platter/refs/heads/main/images/logo-header.png" alt="MNature's Platter" width="100%" />
       <h4>Nature's Platter | Freshness You Can Count On</h4>
       <a href="https://iamamolsarker.github.io/assignment_03_nature_platter/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
