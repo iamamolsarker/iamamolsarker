@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center" style="color:#38bdf8;">About Me</h1>
+<h1 align="center" style="color:#38bdf8;">🔥 About Me 🔥</h1>
 
 <p align="justify">
   I’ve always been passionate about technology, but without proper guidance, I pursued business studies and completed my graduation in accounting. While preparing for a career in banking, I realized it wasn’t the path for me.
@@ -25,21 +25,7 @@
 
 ---
 
-<h1 align="center" style="color:#38bdf8;">My Journey (Timeline)</h1>
-
-| Year  | Milestone                                                                 |
-|-------|---------------------------------------------------------------------------|
-| 👦 Childhood | Dreamed of becoming a computer engineer, deeply curious about technology |
-| 🏫 High School | Chose Business Studies due to lack of career guidance                 |
-| 🎓 University | Completed Bachelor's & Master's in Accounting, aiming for a banking job |
-| 💡 2017 | Discovered web development — took a short WordPress course               |
-| 🔥 2018–2023 | Built strong experience as a WordPress developer, working with clients     |
-| 🚀 2024–Now | Transitioned to full-stack development (MERN) and deeper JavaScript skills |
-
-
----
-
-### 🛠️ Tech Stack
+<h1 align="center" style="color:#38bdf8;">🛠️ Tech Stack 🛠️</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
