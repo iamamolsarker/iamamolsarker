@@ -130,5 +130,5 @@
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/twitter.gif?raw=true" width="60" alt="Twitter" />
 </a>
 <a href="https://wa.me/8801683586860" target="_blank">
-  <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/whatsapp.gif?raw=true" alt="Chat on WhatsApp" />
+  <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/whatsapp.gif?raw=true" width="60" alt="Chat on WhatsApp" />
 </a>
