@@ -123,6 +123,7 @@
 
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; Contact With Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/iamamolsarker/" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/linkedin.gif?raw=true" width="60" alt="LinkedIn" />
 </a>
@@ -132,3 +133,4 @@
 <a href="https://wa.me/8801683586860" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/whatsapp.gif?raw=true" width="60" alt="Chat on WhatsApp" />
 </a>
+</p>
