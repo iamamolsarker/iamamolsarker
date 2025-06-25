@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+<h1 align="center" style="color:#38bdf8;">About Me</h1>
 
 - 🔭 I’m currently working on **building scalable full-stack web apps**
 - 🌱 I’m currently learning **React, Firebase Auth, JWT, REST APIs**
