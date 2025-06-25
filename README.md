@@ -52,11 +52,34 @@
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-- [🔥 MERN Authentication App](https://github.com/amolsarker/mern-auth-app) – Full stack app with JWT, Firebase, and MongoDB
-- [🎯 Task Tracker](https://github.com/amolsarker/task-tracker) – React + Firebase CRUD App
-- [📚 Blog CMS](https://github.com/amolsarker/blog-cms) – Blog platform with Express, MongoDB, Admin Panel
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x140.png?text=Project+1" alt="MERN Auth App" width="100%" />
+      <h4>MERN Authentication App</h4>
+      <a href="https://github.com/amolsarker/mern-auth-app" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x140.png?text=Project+2" alt="Task Tracker" width="100%" />
+      <h4>Task Tracker (React + Firebase)</h4>
+      <a href="https://github.com/amolsarker/task-tracker" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://via.placeholder.com/250x140.png?text=Project+3" alt="Blog CMS" width="100%" />
+      <h4>Blog CMS (MongoDB + Express)</h4>
+      <a href="https://github.com/amolsarker/blog-cms" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
