@@ -7,12 +7,26 @@
 
 <h1 align="center" style="color:#38bdf8;">About Me</h1>
 
-- 🔭 I’m currently working on **building scalable full-stack web apps**
-- 🌱 I’m currently learning **React, Firebase Auth, JWT, REST APIs**
-- 👯 I’m looking to collaborate on **open-source JavaScript/React projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
-- 📫 How to reach me: **[amolsarker.dev@gmail.com](mailto:amolsarker.dev@gmail.com)**
-- ⚡ Fun fact: *I started coding to solve real-life problems and never stopped.*
+<p align="justify">
+  From a young age, I was deeply fascinated by technology and dreamed of becoming a computer engineer. But without proper guidance, I chose business studies in high school and later completed my graduation and post-graduation in accounting, believing a career in banking awaited me.
+</p>
+
+<p align="justify">
+  However, my passion for tech never faded. In 2017, I made a life-changing decision to enroll in a short web development course focused on WordPress. That moment reignited my long-held dream of working in the tech industry.
+</p>
+
+<p align="justify">
+  Today, I’m a self-taught MERN Stack web developer who thrives on building scalable full-stack applications and solving real-world problems. My journey is proof that it’s never too late to follow your passion — no matter your background.
+</p>
+
+<p align="justify">
+  I'm currently focused on JavaScript, React, Node.js, Express, MongoDB, and modern tools like Firebase, Tailwind CSS, and JWT. I love collaborating on open-source projects, continuously improving my skills, and building tech that makes a difference.
+</p>
+
+<p align="justify">
+  Whether you're just getting started or considering a career pivot, remember: persistence beats pedigree. Trust your passion, keep learning, and take that leap — your future self will thank you.
+</p>
+
 
 ---
 
