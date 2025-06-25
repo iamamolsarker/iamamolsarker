@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> &nbsp; About Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /></h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /> &nbsp; About Me &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" /></h1>
 
 <p align="justify">
   I’ve always been passionate about technology, but without proper guidance, I pursued business studies and completed my graduation in accounting. While preparing for a career in banking, I realized it wasn’t the path for me.
