@@ -8,24 +8,33 @@
 <h1 align="center" style="color:#38bdf8;">About Me</h1>
 
 <p align="justify">
-  From a young age, I was deeply fascinated by technology and dreamed of becoming a computer engineer. But without proper guidance, I chose business studies in high school and later completed my graduation and post-graduation in accounting, believing a career in banking awaited me.
+  I’ve always been passionate about technology, but without proper guidance, I pursued business studies and completed my graduation in accounting. While preparing for a career in banking, I realized it wasn’t the path for me.
 </p>
 
 <p align="justify">
-  However, my passion for tech never faded. In 2017, I made a life-changing decision to enroll in a short web development course focused on WordPress. That moment reignited my long-held dream of working in the tech industry.
+  In 2017, I took a leap and joined a short WordPress development course — a decision that changed everything. It reignited my love for tech and set me on the path of becoming a self-taught web developer.
 </p>
 
 <p align="justify">
-  Today, I’m a self-taught MERN Stack web developer who thrives on building scalable full-stack applications and solving real-world problems. My journey is proof that it’s never too late to follow your passion — no matter your background.
+  Today, I specialize in building scalable full-stack applications using the MERN stack, Firebase, Tailwind CSS, and JWT. I'm driven by a passion for learning, problem-solving, and turning ideas into real-world solutions.
 </p>
 
 <p align="justify">
-  I'm currently focused on JavaScript, React, Node.js, Express, MongoDB, and modern tools like Firebase, Tailwind CSS, and JWT. I love collaborating on open-source projects, continuously improving my skills, and building tech that makes a difference.
+  My journey is proof that it’s never too late to follow your passion. No matter your background, with focus and persistence, you can create the career you dream of.
 </p>
 
-<p align="justify">
-  Whether you're just getting started or considering a career pivot, remember: persistence beats pedigree. Trust your passion, keep learning, and take that leap — your future self will thank you.
-</p>
+---
+
+<h1 align="center" style="color:#38bdf8;">My Journey (Timeline)</h1>
+
+| Year  | Milestone                                                                 |
+|-------|---------------------------------------------------------------------------|
+| 👦 Childhood | Dreamed of becoming a computer engineer, deeply curious about technology |
+| 🏫 High School | Chose Business Studies due to lack of career guidance                 |
+| 🎓 University | Completed Bachelor's & Master's in Accounting, aiming for a banking job |
+| 💡 2017 | Discovered web development — took a short WordPress course               |
+| 🔥 2018–2023 | Built strong experience as a WordPress developer, working with clients     |
+| 🚀 2024–Now | Transitioned to full-stack development (MERN) and deeper JavaScript skills |
 
 
 ---
