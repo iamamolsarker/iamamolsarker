@@ -1,7 +1,7 @@
 ![Amol Sarker Banner](https://raw.githubusercontent.com/iamamolsarker/iamamolsarker/main/github-Banner.png)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px" />, I'm Amol Sarker</h1>
-<h3 align="center">A Passionate MERN Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
 
 ---
 
