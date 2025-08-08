@@ -88,11 +88,8 @@
       <a href="https://sport-sync-ass-11.web.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
       </a><br>
-      <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-iamamolsarker" target="_blank">
+      <a href="https://github.com/iamamolsarker/SportSync-A-Sport-Booking-Event-Website" target="_blank">
         <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-iamamolsarker" target="_blank">
-        <img src="https://img.shields.io/badge/Server_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="25%">
@@ -101,11 +98,8 @@
       <a href="https://task-market.surge.sh/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Site-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
       </a><br>
-      <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-iamamolsarker" target="_blank">
+      <a href="https://github.com/iamamolsarker/Task-Market" target="_blank">
         <img src="https://img.shields.io/badge/Client_Code-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://github.com/Programming-Hero-Web-Course4/b11a10-server-side-iamamolsarker" target="_blank">
-        <img src="https://img.shields.io/badge/Server_Code-000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center" width="25%">
