@@ -31,7 +31,6 @@
   </i>
 </p>
 
-
 ---
 
 <h1 align="center" style="color:#38bdf8;">🛠️ Tech Stack 🛠️</h1>
@@ -58,23 +57,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-
 ---
 
 <h1 align="center" style="color:#38bdf8;">🔥 Streak Stats 🔥</h1>
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamamolsarker&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-</div>
-
-
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=iamamolsarker&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ---
 
 <p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/working.gif?raw=true" width="500"></p>
-
 
  <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Featured Projects &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /></h1>
 
@@ -129,7 +121,6 @@
   </tr>
 </table>
 ---
-
 
 <p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/robot.gif?raw=true" width="500"></p>
 
