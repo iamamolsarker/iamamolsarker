@@ -133,4 +133,7 @@
 <a href="https://wa.me/8801683586860" target="_blank">
   <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/whatsapp.gif?raw=true" width="60" alt="Chat on WhatsApp" />
 </a>
+<a href="mailto:amolsarker16@gmail.com" target="_blank">
+  <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/gmail-logo.gif?raw=true" width="60" alt="Email" />
+</a>
 </p>
