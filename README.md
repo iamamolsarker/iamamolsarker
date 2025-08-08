@@ -61,6 +61,11 @@
 
 ---
 
+<h1 align="center" style="color:#38bdf8;">🔥 Streak Stats 🔥</h1>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamamolsarker)](https://git.io/streak-stats)
+
+---
+
 <p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/working.gif?raw=true" width="500"></p>
 
 
