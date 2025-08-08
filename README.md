@@ -63,10 +63,11 @@
 
 <h1 align="center" style="color:#38bdf8;">🔥 Streak Stats 🔥</h1>
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iamamolsarker)](https://git.io/streak-stats)
-  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamamolsarker&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
 
 
 ---
