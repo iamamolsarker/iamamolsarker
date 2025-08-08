@@ -67,15 +67,16 @@
 
 
 ---
-
-<p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/working.gif?raw=true" width="500"></p>
-
 <h1 align="center" style="color:#38bdf8;">🚀 Current Activities 🚀</h1>
 
 <ul>
   <li>Exploring <strong>Next.js</strong></li>
-  <li>Working on a <strong>tourism website</strong></li>
+  <li>Learning <strong>More Backend Technologies</strong></li>
+  
 </ul>
+
+<p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/working.gif?raw=true" width="500"></p>
+
 
  <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Featured Projects &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /></h1>
 
