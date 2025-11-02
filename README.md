@@ -69,9 +69,9 @@
 ---
 <h1 align="center" style="color:#38bdf8;">🚀 Current Activities 🚀</h1>
 
-<h4 align="center">Exploring <strong>Typescript & Next.js</strong></h4>
-<h4 align="center">Learning <strong>Backend Technologies like PostgreSQL, Go Backend Framework</strong></h4>
-<h4 align="center">Learning <strong>Prisma, Docker & Nginx</strong></h4>
+<h3 align="center">Exploring <strong>Typescript & Next.js</strong></h3>
+<h3 align="center">Learning <strong>Backend Technologies like PostgreSQL, Go Backend Framework</strong></h3>
+<h3 align="center">Learning <strong>Prisma, Docker & Nginx</strong></h3>
 
 <p align="center"> <img src="https://github.com/iamamolsarker/iamamolsarker/blob/main/working.gif?raw=true" width="500"></p>
 
