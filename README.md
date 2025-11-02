@@ -70,8 +70,9 @@
 <h1 align="center" style="color:#38bdf8;">🚀 Current Activities 🚀</h1>
 
 <ul>
-  <li>Exploring <strong>Next.js</strong></li>
-  <li>Learning <strong>More Backend Technologies</strong></li>
+  <li>Exploring <strong>Typescript & Next.js</strong></li>
+  <li>Learning <strong>Backend Technologies like PostgreSQL, Go Backend Framework</strong></li>
+  <li>Learning <strong>Prisma, Docker & Nginx</strong></li>
   
 </ul>
 
